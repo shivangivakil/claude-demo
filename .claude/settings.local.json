@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:thegatewaycorp.com)",
+      "Bash(gh auth *)",
+      "Bash(git config *)",
+      "Bash(where gh *)",
+      "Bash(where git *)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Users/shivangi/AppData/Local/GitHubDesktop/**)",
+      "Bash(winget install *)",
+      "Bash(export PATH=\"$PATH:/C/Program Files/GitHub CLI\")"
+    ]
+  }
+}
